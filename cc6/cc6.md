@@ -1,7 +1,8 @@
 ﻿# Решение задания 1
 
-1. print - print_game_field
+1. print - print_game_field  
 // Функция, печатающая поле клеточного автомата Конвея "Жизнь".
+
 2. step - calculate_next_generation  
 // Функция, рассчитывающая следующий шаг в "Жизнь".
 3. gilbert - create_gilbert_matrix  
